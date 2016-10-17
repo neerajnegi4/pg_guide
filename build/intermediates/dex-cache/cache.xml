@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\AndroidStudioProjects\Pg_Guide\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="39ae02ce40c3ac828abbf780ce0ff5d7a28b7d6a">
+        <dex dex="D:\AndroidStudioProjects\Pg_Guide\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.0.1_d970018fb137b1d7e5a8390de61e9ee073320eda\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\NEERAJ\.gradle\caches\modules-2\files-2.1\com.mcxiaoke.volley\library\1.0.19\a8f23f65fc1e522ee4a1a697ee569901a46741fa\library-1.0.19.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="D:\AndroidStudioProjects\Pg_Guide\app\build\intermediates\transforms\dex\debug\folders\1000\10\library-1.0.19_8c2dbcb8bfb8a67bc4bde8f37d85c3399da4e777\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\NEERAJ\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="D:\AndroidStudioProjects\Pg_Guide\app\build\intermediates\transforms\dex\debug\folders\1000\10\library-2.4.0_735c4b7cf3619be6a76a7c8d376b7afab6784a9f\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Pg_Guide\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\0.9.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="39bd9f893c75eac9e76559cc4e96af6e417afdc5">
+        <dex dex="D:\AndroidStudioProjects\Pg_Guide\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-imagepipeline-base-0.9.0_1245f5bdaacf2f5865f07acc46013d312eeb5488\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Pg_Guide\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="D:\AndroidStudioProjects\Pg_Guide\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.1.1_1622e8818089ddcfc9064ae3b5fc54d8e20d7e1b\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Pg_Guide\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="D:\AndroidStudioProjects\Pg_Guide\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.1.1_56e376072aa9f88e3633c7edf9d8b08533cb16d9\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Pg_Guide\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\0.9.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ca51025f4a58fc7fb6cfaa85e7d09b7ae47e6187">
+        <dex dex="D:\AndroidStudioProjects\Pg_Guide\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-fresco-0.9.0_4dc23adf28f21dcb0a4ba0aee42e8fc208657847\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Pg_Guide\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="D:\AndroidStudioProjects\Pg_Guide\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.1.1_74cb0c33f1ad625e4dff34f979ca28b117a23867\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Pg_Guide\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\0.9.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="3158c15bb0ae97575debdb40cfcd8f0f9f244526">
+        <dex dex="D:\AndroidStudioProjects\Pg_Guide\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-drawee-0.9.0_7646659f9f12ff72d7db7c9116f4f83681066155\classes.dex" />
+    </item>
+    <item
+        jar="D:\softwares\studio\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="D:\AndroidStudioProjects\Pg_Guide\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.1.1_6bf5a368675cedf9af7262f401b2fd93bc47e1a3\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Pg_Guide\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8fd8087bb59eef63fa8c2367c1c38ae90fc8acaf">
+        <dex dex="D:\AndroidStudioProjects\Pg_Guide\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_d3e26d2940f8e04535ec729ff70d8f8e401cb107\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Pg_Guide\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="0c5f8f90ca2c88841313892a4f836ffca19e0800">
+        <dex dex="D:\AndroidStudioProjects\Pg_Guide\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_9ba10500cc1c151d4cc0008781cce600fecbfd11\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Pg_Guide\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="D:\AndroidStudioProjects\Pg_Guide\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.1_c6b78c5d30d3ba8c62978ed583ff9ca57b13b0ee\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Pg_Guide\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="D:\AndroidStudioProjects\Pg_Guide\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.1.1_6321988178d95257a6158184c043c50de7ab0429\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\NEERAJ\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.1.4\129874135e6081269ace2312092031558865de12\bolts-android-1.1.4.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="D:\AndroidStudioProjects\Pg_Guide\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-android-1.1.4_d8b0b495d03e31a1fdc75cd459e46ca758982d14\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Pg_Guide\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.9.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="4ee95617ab850030c51486d02bc9d207b14419c6">
+        <dex dex="D:\AndroidStudioProjects\Pg_Guide\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-fbcore-0.9.0_d98aaaff976e526e219325994833f21d1efe83b1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\NEERAJ\.gradle\caches\modules-2\files-2.1\org.jbundle.util.osgi.wrapped\org.jbundle.util.osgi.wrapped.org.apache.http.client\4.1.2\98c86e42679fe7ac066f6c242e0d14f0bce0bb7c\org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="98c86e42679fe7ac066f6c242e0d14f0bce0bb7c">
+        <dex dex="D:\AndroidStudioProjects\Pg_Guide\app\build\intermediates\transforms\dex\debug\folders\1000\10\org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2_21d794e0531126b591ddcf00b93f396ba2d080a9\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Pg_Guide\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\0.9.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="57528b5deee77bfa2188fc279fd45066366f17f5">
+        <dex dex="D:\AndroidStudioProjects\Pg_Guide\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-imagepipeline-0.9.0_8d874e7a4d750dfe35c01ad1eb579988e9ab228d\classes.dex" />
+    </item>
+
+</items>

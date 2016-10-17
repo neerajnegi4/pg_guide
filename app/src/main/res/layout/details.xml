@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/RelativeLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/background1"
+    >
+
+    <ImageButton
+        android:id="@+id/imageButton1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="62dp"
+        android:src="@drawable/pg1"
+        android:layout_below="@+id/bb11"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:id="@+id/name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Name"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:layout_alignTop="@+id/textView1"
+        android:layout_toStartOf="@+id/button1" />
+
+    <TextView
+        android:id="@+id/city"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="city"
+        android:textSize="20dp"
+        android:textStyle="bold"
+
+        android:layout_below="@+id/textView1"
+        android:layout_alignStart="@+id/name"
+        android:layout_alignEnd="@+id/mobile" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="City"
+        android:textSize="25dp"
+        android:textStyle="bold"
+        android:textColor="#003322"
+
+
+        android:layout_alignTop="@+id/city"
+        android:layout_alignStart="@+id/textView1" />
+
+    <TextView
+        android:id="@+id/sector"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="sector"
+
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:layout_below="@+id/textView5"
+        android:layout_alignStart="@+id/name" />
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sector"
+        android:textColor="#003322"
+        android:textSize="25dp"
+        android:textStyle="bold"
+        android:layout_marginTop="1dp"
+        android:layout_below="@+id/textView5"
+        android:layout_alignStart="@+id/textView5" />
+
+    <TextView
+        android:id="@+id/mobile"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Mobile no"
+
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:layout_below="@+id/textView7"
+        android:layout_alignStart="@+id/sector" />
+
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Mobile No."
+        android:textSize="25dp"
+        android:textStyle="bold"
+        android:textColor="#003322"
+        android:layout_alignTop="@+id/mobile"
+        android:layout_alignStart="@+id/textView7" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Name"
+        android:textSize="25dp"
+        android:textStyle="bold"
+        android:textColor="#003322"
+        android:layout_below="@+id/textView2"
+        android:layout_alignStart="@+id/imageButton1"
+        android:layout_marginTop="47dp" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Working Hours 9 am to 6pm"
+        android:textSize="25dp"
+        android:textStyle="bold"
+        android:textColor="#7e0701"
+        android:layout_below="@+id/imageButton1"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="39dp"
+        android:text="Call"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:textColor="#FFFFFF"
+        android:background="@drawable/call"
+
+
+        android:layout_below="@+id/textView9"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Message"
+
+        android:textColor="#FFFFFF"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:background="@drawable/message"
+        android:layout_below="@+id/textView9"
+        android:layout_alignEnd="@+id/imageButton1" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Logout"
+        android:id="@+id/bb11"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:textColor="#FFFFFF"
+        android:background="@drawable/logout"/>
+
+</RelativeLayout>
